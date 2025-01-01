@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Janet Guardiola</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Jan 2025 19:25:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Falsaria en In Media Res</title>
+		<link>/falsaria-en-in-media-res/</link>
+					<comments>/falsaria-en-in-media-res/#respond</comments>
+		
+		<dc:creator><![CDATA[janetguardiola]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2025 19:23:47 +0000</pubDate>
+				<category><![CDATA[Falsaria]]></category>
+		<guid isPermaLink="false">/?p=79</guid>
+
+					<description><![CDATA[El escritor, profesor y director de tesis de Falsaria, José Borges, y yo chachareamos sobre este muchachito literario en la nueva temporada del podcast, In Media Res.]]></description>
+										<content:encoded><![CDATA[
+<p>El escritor, profesor y director de tesis de Falsaria, José Borges, y yo chachareamos sobre este muchachito literario en la nueva temporada del podcast, In Media Res.</p>
+
+
+
+<iframe src='https://widget.spreaker.com/player?episode_id=53554181&#038;theme=dark&#038;chapters-image=true' width='100%' height='200px' frameborder='0'></iframe>
+]]></content:encoded>
+					
+					<wfw:commentRss>/falsaria-en-in-media-res/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿De dónde surge «Falsaria»?</title>
+		<link>/de-donde-surge-falsaria/</link>
+					<comments>/de-donde-surge-falsaria/#respond</comments>
+		
+		<dc:creator><![CDATA[janetguardiola]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 23:05:17 +0000</pubDate>
+				<category><![CDATA[Falsaria]]></category>
+		<guid isPermaLink="false">/?p=57</guid>
+
+					<description><![CDATA[Nada como presentar tu muchachito literario en tu casa, Z-93 FM, con las personas que te inspiraron a escribirlo. Escucha la entrevista aquí. jguardiolaescribe · ¿De dónde surge Falsaria?]]></description>
+										<content:encoded><![CDATA[
+<p>Nada como presentar tu muchachito literario en tu casa, Z-93 FM, con las personas que te inspiraron a escribirlo. Escucha la entrevista aquí.<br></p>
+
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1273738564&#038;color=%23ff5500&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-126228555-134196046" title="jguardiolaescribe" target="_blank" style="color: #cccccc; text-decoration: none;">jguardiolaescribe</a> · <a href="https://soundcloud.com/user-126228555-134196046/de-donde-surge-falsaria" title="¿De dónde surge Falsaria?" target="_blank" style="color: #cccccc; text-decoration: none;">¿De dónde surge Falsaria?</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/de-donde-surge-falsaria/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
